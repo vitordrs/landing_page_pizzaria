@@ -59,10 +59,7 @@ Durante o desenvolvimento, o foco foi consolidar conhecimentos essenciais para c
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
-# Acesse a pasta
-cd seu-repositorio
+git clone https://github.com/vitordrs/landing_page_pizzaria
 
 # Abra o arquivo
 index.html
